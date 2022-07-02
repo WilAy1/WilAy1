@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @WilAy1
 - 👀 I’m interested in ML, web and software development
-- 🌱 I’m currently learning anything I wish like
-- 💞️ I’m looking to collaborate on FoodleApp
+- 🌱 I’m currently working on Foodle
 - 📫 How to reach me twitter.com/akintadeayomik3
 
 <!---
