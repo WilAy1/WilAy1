@@ -1,11 +1,11 @@
-Nothing really much about me, I just love to code.
-Learning machine learning.
-Writes Android, IOS and Web Apps.
-Works with PHP.
-Loves to play with Python.
+Nothing really much about me, I just love to code.<br>
+Learning machine learning.<br>
+Writes Android, IOS and Web Apps.<br>
+Works with PHP.<br>
+Loves to play with Python.<br>
 
-Twitter - https://twitter.com/akintadeayomik3
-Email - ayomikunakintade@gmail.com
+Twitter - https://twitter.com/akintadeayomik3 <br>
+Email - ayomikunakintade@gmail.com <br>
 
 
 <!---
