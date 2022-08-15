@@ -1,7 +1,7 @@
 Nothing really much about me, I just love to code. 👨🏾‍💻<br>
 Learning machine learning.<br>
 Writes Android, IOS and Web Apps.<br>
-Works with PHP.<br>
+Works with Kotlin, Swift, PHP, React JS, C++.<br>
 Loves to play with Python.<br>
 
 Twitter - https://twitter.com/akintadeayomik3 <br>
