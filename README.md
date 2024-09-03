@@ -1,15 +1,16 @@
-Nothing really much about me, I just love to code. 👨🏾‍💻<br>
-Learning machine learning.<br>
-Writes Android, IOS and Web Apps.<br>
-Works with Kotlin, Swift, PHP, React JS, C++.<br>
-Loves to play with Python.<br>
+## WilAy
 
-Portfolio - https://wilay1.github.io/portfolio (Under Development)
+Nothing really much about me, I love to code. 👨🏾‍💻 <br/>
+Writes Android, IOS and Web Apps. <br/>
+I also write whatever I feel like whenever I feel like.<br/>
 
-Twitter - https://twitter.com/akintadeayomik3 <br>
+[Portfolio](https://wilay1.github.io/portfolio) (Under Development)
 
-Email - ayomikunakintade@gmail.com <br>
+[Twitter](https://twitter.com/akintadeayomik3) - @akintadeayomik3
 
+[Email](mailto:ayomikunakintade@gmail.com)
+
+Peace ✌🏽
 
 <!---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WilAy1&show_icons=true&locale=en&layout=compact" alt="wilay1" /></p>
