@@ -1,14 +1,14 @@
 ## WilAy
 
-Nothing really much about me, I love to code. 👨🏾‍💻 <br/>
-Writes Android, IOS and Web Apps. <br/>
+Nothing much about me, I love to code. 👨🏾‍💻 <br/>
+<!-- Writes Android, IOS and Web Apps. <br/>
 I also write whatever I feel like whenever I feel like.<br/>
 
 [Portfolio](https://wilay1.github.io/portfolio) (Under Development)
 
 [Twitter](https://twitter.com/akintadeayomik3) - @akintadeayomik3
 
-[Email](mailto:ayomikunakintade@gmail.com)
+[Email](mailto:ayomikunakintade@gmail.com) -->
 
 Peace ✌🏽
 
