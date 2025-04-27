@@ -1,6 +1,6 @@
 ## WilAy
 
-Nothing much about me, I love to code. 👨🏾‍💻 <br/>
+Nothing much about me but I love to code. 👨🏾‍💻 <br/>
 <!-- Writes Android, IOS and Web Apps. <br/>
 I also write whatever I feel like whenever I feel like.<br/>
 
